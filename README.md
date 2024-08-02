@@ -8,6 +8,7 @@ UAB Barcelona Summer School
 - Add an extra parameter to the Lane constructor to define the speed of all the cars of the Lane
   
 #Tasks day3:
+
 -Paint the cars with a "fill" color. Every Lane will have all its cars painted in the same color. So you have to add 1 more parameter to the Lane constructor that defines the cars' color.
 -Add 1 more parameter to the Lane constructor to define the width of all its cars, so you can define cars, lorries (longer cars), etc.
 -When the frog crashes a car, set the frog at its starting position (400,500)
